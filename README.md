@@ -1,7 +1,7 @@
 # Welcome to my Github!
 
 ## 目标
-让RT-Thread兼容uCOS全家桶
+让RT-Thread兼容uC/OS全家桶
 
 ## 计划
 1. 继续完成RT-Thread操作系统的uCOS-II兼容层 (现在一直持续)
