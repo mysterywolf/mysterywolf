@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-## 已实现兼容的uC/OS全家桶组件(并已经制作成RT-Thread软件包)
+## 已实现向RT-Thread兼容的uC/OS全家桶组件(并已经制作成RT-Thread软件包)
 - uCOS-III兼容层 https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III
 - uC/LIB https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III/tree/master/uCOS-III_Wrapper/uC-LIB
 - uC/CPU https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III/tree/master/uCOS-III_Wrapper/uC-CPU
