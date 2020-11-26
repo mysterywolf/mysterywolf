@@ -13,6 +13,3 @@
 - uC/OS-II兼容层 https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-II
 - uC/FS https://github.com/mysterywolf/uC-FS-for-RT-Thread
 - uC/Modbus https://github.com/mysterywolf/uC-Modbus-for-RT-Thread
-
-## 其他计划
-- ki软件包
