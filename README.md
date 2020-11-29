@@ -3,8 +3,8 @@
 ## 已实现向RT-Thread兼容的uC/OS全家桶组件(并已经制作成RT-Thread软件包)
 - uC/OS-III兼容层 https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III
 - uC/OS-II兼容层 https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-II
-- uC/LIB https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III/tree/master/uCOS-III_Wrapper/uC-LIB
-- uC/CPU https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III/tree/master/uCOS-III_Wrapper/uC-CPU
+- uC/LIB https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III/tree/master/uC-LIB
+- uC/CPU https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III/tree/master/uC-CPU
 - uC/CRC https://github.com/mysterywolf/uC-CRC-for-RT-Thread
 - uC/Clk https://github.com/mysterywolf/uC-Clk-for-RT-Thread
 - uC/Common https://github.com/mysterywolf/uC-Common-for-RT-Thread
