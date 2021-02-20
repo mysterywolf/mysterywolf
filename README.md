@@ -2,7 +2,7 @@
 
 # Welcome!
 * One of the [RT-Thread](https://www.rt-thread.io/) Community Member
-* Focusing on Embedded System
+* Dedicate to Embedded System
 
 
 
