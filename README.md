@@ -24,10 +24,10 @@
 
 # Cortex-M汇编加速项目
 
-## 浮点运算汇编加速
+## 浮点运算汇编加速（已经制作成RT-Thread软件包）
 - Cortex-M0浮点加速汇编库（精简版，搬运） https://github.com/mysterywolf/Qfplib-M0-tiny
 - Cortex-M0浮点加速汇编库（完全版，搬运） https://github.com/mysterywolf/Qfplib-M0-full
 - Cortex-M3浮点加速汇编库（搬运）https://github.com/mysterywolf/Qfplib-M3
 
-## 内存相关汇编加速
+## 内存相关汇编加速（已经制作成RT-Thread软件包）
 - Cortex-M3/4/7 memset汇编加速 https://github.com/mysterywolf/rt_memcpy_cm
