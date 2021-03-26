@@ -30,4 +30,4 @@
 - Cortex-M3浮点加速汇编库（搬运）https://github.com/mysterywolf/Qfplib-M3
 
 ## 内存相关汇编加速
-- Cortex-M3/4/7 memset汇编加速 https://github.com/mysterywolf/rt_memcpy_cm
+- Cortex-M3/4/7 memcpy汇编加速 https://github.com/mysterywolf/rt_memcpy_cm
