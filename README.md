@@ -6,7 +6,7 @@
 
 
 
-# uC/OS Wrapper For RT-Thread
+# RT-Thread Wrapper of Micrium Products
 
 
 [![RT-Thread-wrapper-of-uCOS-III](https://github-readme-stats.vercel.app/api/pin/?username=mysterywolf&repo=RT-Thread-wrapper-of-uCOS-III&show_owner=false)](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III)&nbsp;
