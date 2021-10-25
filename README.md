@@ -2,7 +2,7 @@
 
 # Welcome!
 * One of the [RT-Thread](https://www.rt-thread.io/) Community Members
-* Dedicate to Embedded System
+* Dedicate to Embedded System and Real-Time Operating System.
 
 
 
