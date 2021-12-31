@@ -4,7 +4,7 @@
 * One of the [RT-Thread](https://www.rt-thread.io/) Community Members
 * Dedicate to Embedded System and Real-Time Operating System.
 
-In 2021, [I made 2450 contributions and modified 94,000 lines of code](githubtrends.io/wrapped/mysterywolf).
+In 2021, [I made 2450 contributions and modified 94,000 lines of code](https://www.githubtrends.io/wrapped/mysterywolf).
 
 # RT-Thread Wrapper of Micrium Products
 
