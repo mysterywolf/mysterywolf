@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mysterywolf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 # Welcome!
-* One of the [RT-Thread](https://www.rt-thread.io/) Community Members
+* Developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) community
 * Dedicate to Embedded System and Real-Time Operating System.
 
 In 2021, [I made 2450 contributions and modified 94,000 lines of code](https://www.githubtrends.io/wrapped/mysterywolf).
