@@ -21,5 +21,5 @@ In 2021, [I made 2450 contributions and modified 94,000 lines of code](https://w
 
 
 
-# Arduino Ecological Compatibility Layer of RT-Thread
+# Arduino Ecosystem Compatibility Layer of RT-Thread
 [![RTduino](https://github-readme-stats.vercel.app/api/pin/?username=mysterywolf&repo=RTduino&show_owner=false)](https://github.com/mysterywolf/RTduino)&nbsp;
