@@ -7,7 +7,7 @@
 In 2021, [I made 2450 contributions and modified 94,000 lines of code](https://www.githubtrends.io/wrapped/mysterywolf).
 
 # RTduino - Arduino Ecosystem Compatibility Layer of RT-Thread
-[![RTduino](https://github-readme-stats.vercel.app/api/pin/?username=mysterywolf&repo=RTduino&show_owner=false)](https://github.com/mysterywolf/RTduino)&nbsp;
+[![RTduino](https://github-readme-stats.vercel.app/api/pin/?username=RTduino&repo=RTduino&show_owner=false)](https://github.com/RTduino/RTduino)&nbsp;
 
 # RT-Thread Wrapper of Micrium Products
 
