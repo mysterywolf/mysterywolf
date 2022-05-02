@@ -4,8 +4,6 @@
 * Developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) community
 * Dedicate to Embedded System and Real-Time Operating System.
 
-In 2021, [I made 2450 contributions and modified 94,000 lines of code](https://www.githubtrends.io/wrapped/mysterywolf).
-
 # Seminar Presentations
 - [How to run LVGL on RT Thread in simulators](https://www.youtube.com/watch?v=k7QYk6hSwnc) on March 15, 2022
 
