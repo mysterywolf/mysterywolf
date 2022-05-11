@@ -4,8 +4,6 @@
 * Developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) community
 * Dedicate to Embedded System and Real-Time Operating System.
 
-![](https://komarev.com/ghpvc/?username=mysterywolf&label=Profile+Views)
-
 # Seminar Presentations
 - [How to run LVGL on RT Thread in simulators](https://www.youtube.com/watch?v=k7QYk6hSwnc) on March 15, 2022
 
