@@ -7,10 +7,10 @@
 # Seminar Presentations
 - [How to run LVGL on RT Thread in simulators](https://www.youtube.com/watch?v=k7QYk6hSwnc) on March 15, 2022
 
-# RTduino - Arduino Ecosystem Compatibility Layer of RT-Thread
+# RTduino - Arduino Ecosystem Compatibility Layer for RT-Thread
 [![RTduino](https://github-readme-stats.vercel.app/api/pin/?username=RTduino&repo=RTduino&show_owner=false)](https://github.com/RTduino/RTduino)&nbsp;
 
-# RT-Thread Wrapper of Micrium Products
+# Micrium Products Compatibility Layer for RT-Thread
 
 [![RT-Thread-wrapper-of-uCOS-III](https://github-readme-stats.vercel.app/api/pin/?username=mysterywolf&repo=RT-Thread-wrapper-of-uCOS-III&show_owner=false)](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III)&nbsp;
 [![RT-Thread-wrapper-of-uCOS-II](https://github-readme-stats.vercel.app/api/pin/?username=mysterywolf&repo=RT-Thread-wrapper-of-uCOS-II&show_owner=false)](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-II)
