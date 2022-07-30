@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mysterywolf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 # Welcome!
-* Developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) community
+* Core developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) community
 * Dedicate to Embedded System and Real-Time Operating System.
 
 # Seminar Presentations
