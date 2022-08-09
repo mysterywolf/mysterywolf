@@ -4,7 +4,7 @@
 * Core developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) community
 * Dedicate to Embedded System and Real-Time Operating System (RTOS).
 
-<src="https://github-readme-stats.vercel.app/api?username=mysterywolf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mysterywolf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <a href="https://github.com/mysterywolf"><img alt="Man, Jianting (Meco)'s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mysterywolf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
