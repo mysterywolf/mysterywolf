@@ -5,11 +5,7 @@
 * Funder of [RTduino](https://github.com/RTduino/RTduino) project
 * Dedicate to Embedded System and Real-Time Operating System (RTOS).
 
-<p align="right">
-  <a href="https://www.linkedin.com/in/jianting-man-972679220">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mysterywolf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
