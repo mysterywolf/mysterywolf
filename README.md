@@ -1,8 +1,8 @@
 
 
 # Welcome!
-* Core developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) community
-* Funder of [RTduino](https://github.com/RTduino/RTduino) project
+* Core developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) RTOS community.
+* Funder of [RTduino](https://github.com/RTduino/RTduino) project.
 * Dedicate to Embedded System and Real-Time Operating System (RTOS).
 
 <a href="https://www.linkedin.com/in/jianting-man-972679220">
