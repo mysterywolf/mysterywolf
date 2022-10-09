@@ -1,7 +1,7 @@
 
 
 # Welcome!
-* Core developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) RTOS community.
+* Core developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) RTOS.
 * Funder of [RTduino](https://github.com/RTduino/RTduino) project.
 * Dedicate to Embedded System and Real-Time Operating System (RTOS).
 
