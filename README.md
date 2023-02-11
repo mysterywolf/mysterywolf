@@ -1,9 +1,10 @@
 
 
 # Welcome!
+
+* Dedicate to Embedded System and Real-Time Operating System (RTOS).
 * Core developer & maintainer of [RT-Thread](https://github.com/RT-Thread/rt-thread) RTOS.
 * Funder of [RTduino](https://github.com/RTduino/RTduino) project.
-* Dedicate to Embedded System and Real-Time Operating System (RTOS).
 
 <img src="https://github-readme-stats.vercel.app/api?username=mysterywolf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
